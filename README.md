@@ -52,13 +52,17 @@ Ich bin **IT-Consultant und Fullstack-Developer** mit leidenschaftlichem Fokus a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Stefan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanHenke85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StefanHenke85&theme=tokyonight&hide_border=true)](https://github.com/StefanHenke85)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHenke85&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanHenke85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/StefanHenke85)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHenke85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/StefanHenke85)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=StefanHenke85&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/StefanHenke85)
 
 </div>
 
