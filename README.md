@@ -77,7 +77,6 @@ Moderne Portfolio-Website mit React, TypeScript und Framer Motion. Features: Dar
 
 Haben Sie ein Projekt im Sinn oder Fragen zu meinen Dienstleistungen? Ich freue mich auf den Austausch!
 
-- 🌐 Website: [henke-net.com](https://henke-net.com)
 - 📧 Email: [info@henke-net.com](mailto:info@henke-net.com)
 - 💼 LinkedIn: [Stefan Henke](https://www.linkedin.com/in/stefan-henke1985/)
 - 📱 Telefon: [+49 1556 / 5612722](tel:+4915565612722)
